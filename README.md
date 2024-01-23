@@ -7,10 +7,6 @@
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
 	</a>
 </div>
-<div align="center">
-	<img src="https://komarev.com/ghpvc/?username=zarpos&style=flat-square&color=FBA92C" alt="Profile views"/>
-</div>
-
 <br>
 <div align="center">
 	
