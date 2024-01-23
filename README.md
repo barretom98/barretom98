@@ -1,9 +1,9 @@
 <div align="center">
 	
-Currently studying in 42 Madrid.
+Actualmente estudiando en 42 Madrid.
 
-Higher programming technique
-Teclab - Instituto Tecnico Superior (Buenos Aires, Argentina)
+Técnico Superior en Programación 
+Teclab - Teclab Instituto Técnico Superior (Buenos Aires, Argentina)
 
 How to reach me: **barretom2908@gmail.com**
 </div>
